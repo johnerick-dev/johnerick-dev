@@ -1,8 +1,8 @@
 ### Olá! Eu sou o John Erick 👋
 
 - 💼 Atualmente trabalho como assistente financeiro
-- 🧑‍🎓 Sou formado em Ciências Econômicas
-- 📖 Iniciando os estudos em programação web
+- 🧑‍🎓 Sou formado em Economia
+- 📖 Estudando programação web para transição de carreira
 - 🖥️ Atualmente estudando REACT <img align="center" alt="John-React" height="20" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 - 👀 Focado nos estudos
 - 🚀 Pretenção em ser um desenvolvedor full stake
